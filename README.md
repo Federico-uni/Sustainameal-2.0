@@ -34,7 +34,7 @@ Make sure to **adapt the package dependencies** to your execution environment if
 ## Resources
 
 - 📦 **Download embeddings**: [Kaggle Dataset](https://www.kaggle.com/datasets/federicores/embeddings/data)  
-- 📂 **Download dataset, documentation, and presentation**: [Google Drive Folder](https://drive.google.com/drive/folders/1rm91lFhhEDkcmFJW0ZDaOYh0C1-wIWMP?usp=drive_link)
+- 📂 **Download dataset, documentation and presentation**: [Google Drive Folder](https://drive.google.com/drive/folders/1rm91lFhhEDkcmFJW0ZDaOYh0C1-wIWMP?usp=drive_link)
 
 ---
 
