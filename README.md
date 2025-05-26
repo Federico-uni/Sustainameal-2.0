@@ -22,7 +22,7 @@ If you plan to run it elsewhere, please make sure to **adjust the dependencies a
 
 To perform a quick test of the system’s functionality, you can run the notebook `test.ipynb`.  
 
-### Inizialization
+### Initialization
 -   Upload 'test.ipynb' on kaggle
 -   Add as input the [Embeddings](https://www.kaggle.com/datasets/federicores/embeddings), [Recipes Dataset](https://www.kaggle.com/datasets/federicores/final-dataset) and the [Sustainameal Package](https://www.kaggle.com/datasets/federicores/final-sustainameal-package)
 -   run 'test.ipynb'
